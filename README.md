@@ -1,4 +1,4 @@
-# Previsao da final da Eurocopa 2024 Redes-Neurais
+# Previsao da final da Eurocopa 2024 Redes Neurais
 Neste relatório, foi desenvolvido um modelo de redes neurais para prever o resultado da final da Eurocopa 2024. Os dados foram retirados do arquivo ‘Euro_2024_Matches.csv’ contendo as informações detalhadas de cada partida.
 
 - **Seleção dos dados**
