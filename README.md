@@ -13,11 +13,11 @@ O modelo treinado alcançou 100% de acerto nos jogos da Espanha, que venceu todo
 Com o modelo treinado, previu-se que a Espanha iria vencer a final da Eurocopa com base nos dados extraídos. A final, realizada em 14/07, terminou com a vitória da Espanha por 2x1 sobre a Inglaterra, confirmando a previsão feita pelo modelo. É importante pontuar que todos os testes foram realizados antes da final, e a previsão correta destaca a eficácia do modelo.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/89fb5ced-aa08-4f85-829c-229e29e3efb1">
+  <img src="https://github.com/user-attachments/assets/6630b450-c5f7-4003-8ca5-92c21c07215c">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4256994b-cd4d-41f8-8427-87f997ecf241">
+  <img src="https://github.com/user-attachments/assets/46d7fb66-fd99-402a-b931-6e8448b4bcf6">
 </p>
 
 - **Considerações Finais:**
